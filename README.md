@@ -5,3 +5,6 @@ You live and learn.
 * socializing
 
 * career
+
+
+you must save the queen
