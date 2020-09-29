@@ -1,5 +1,3 @@
-# README
-
 You live and learn.
 
 * happiness
